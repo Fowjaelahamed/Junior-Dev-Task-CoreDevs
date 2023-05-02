@@ -9,12 +9,12 @@
 
  - [ ] There was some bugs when using key in Order components.
 **Solution**: we shouldn't use key as prop and that is why we are getting this bug. And i just create a new prop with new name(mykey) and pass key value with this.
-![enter image description here](https://drive.google.com/file/d/1hO1JkDPt_mv9tS6NYV9rO_7p9b22d04T/view?usp=share_link)
+
 
 **Junior Dev Back Bug:**
 
  - [ ] When running backend code it shows that it expected connection string start with mongodb://.
 **Solution**: I just add mongodbURL in settings.json and when i run backend code it works fine without any error.
-![Backend Running](https://drive.google.com/file/d/1TbykqWqa6DbkTJRY8xFOqJ-93cud4_kI/view?usp=share_link)
+
  
 
